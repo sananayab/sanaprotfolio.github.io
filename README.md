@@ -3,7 +3,7 @@
 Type scritpt project of  (Create React App).
 
 
-## Tecnologias usadas:
+## latest Tecnologias :
 - React
 - Typescript
 - Styled Components
